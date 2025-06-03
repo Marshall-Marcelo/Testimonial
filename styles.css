@@ -131,6 +131,7 @@ body {
   .card {
     margin: 0em;
     padding: 1em;
+    box-shadow: 0 0.5em 1em -2px var(--grey500);
   }
 
   .card .name-header,
